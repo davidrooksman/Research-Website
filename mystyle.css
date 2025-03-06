@@ -1,0 +1,42 @@
+body{
+    background-color: black;  
+}
+#tab{
+      margin-left: auto;
+      margin-right: auto;
+}
+h1{
+      color: white;
+      text-align: center;
+}
+h2{
+      background-color: rgb(15, 78, 15);
+      color: white;
+}
+.headofgroups{
+      background-color: blanchedalmond;
+      color: black;
+}
+#mainpoints{
+      background-color: rgba(18, 117, 34, 0.384);
+}
+.tankhead:hover{
+    color: skyblue;
+    transition: 1s;
+    transition-duration: inherit;
+}
+.tankhead{
+    text-align: center;
+    color:red;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+main{
+    text-align: center;
+    color: white;
+}
+footer{
+    color:white;
+    text-align:center;
+}
